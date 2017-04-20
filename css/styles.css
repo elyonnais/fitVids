@@ -1,0 +1,18 @@
+/* Styling */
+body {
+    background: rgba(248, 239, 207, 0.31);
+    margin: 0;
+}
+
+iframe {
+  max-width: 100%;
+  width: 100%;
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 5em;
+    color: rgba(244, 123, 4, 0.97); 
+    margin: 20px;
+    
+}
